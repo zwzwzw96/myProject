@@ -8,6 +8,6 @@ Learning to use github
 
 ## Acknowledegments
 
-*NA
+* NA
 
 
